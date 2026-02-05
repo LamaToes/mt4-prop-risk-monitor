@@ -1,4 +1,4 @@
-MT4 Prop Style Risk Monitor - Safety Pack Edition
+MT4/MT5 Prop Style Risk Monitor - Safety Pack Edition
 A professional risk management indicator for MetaTrader 4 that shows real money at risk based on Stop Loss, not guesses.
 Built for traders who take risk seriously, especially prop firm traders.
 What This Indicator Does
